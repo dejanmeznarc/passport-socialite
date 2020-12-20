@@ -1,5 +1,5 @@
 {
-    "name": "matt-allan/passport-socialite",
+    "name": "dejc/passport-socialite",
     "description": "A socialite driver for Passport",
     "type": "library",
     "license": "MIT",
